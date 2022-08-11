@@ -7,6 +7,7 @@ import './App.css';
 function App(){
 const Person = {
     name: 'Peter',
+
     age: 24,
     gender: 'male'
     }
