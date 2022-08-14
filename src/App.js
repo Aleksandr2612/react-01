@@ -18,6 +18,7 @@ const Person = {
         <Header routes={routes}/>
             <main>
         <h1>Manchester United!!!</h1>
+                <h2>create Git and Github</h2>
             <Content person={Person}/>
             </main>
             <Footer/>
